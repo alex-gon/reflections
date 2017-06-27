@@ -1,0 +1,6 @@
+#1 What happens when you initialize a repository? 
+Why do you need to do it?
+
+It adds a little .git file to that folder. This allows 
+you to then make committs. Initiallizing a repository 
+does not create a committ. 
