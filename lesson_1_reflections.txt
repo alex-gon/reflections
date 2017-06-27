@@ -1,0 +1,37 @@
+Version control seems like it will save 
+tons of time keeping track of everything
+I think it is really cool
+
+
+2: How could having easy access to the entire 
+history of a file make you a more efficient 
+programmer in the long term?
+
+You can go back and look at what worked when, 
+and you can see the difference from when you have 
+changed it. 
+
+3: What do you think are the pros and cons of 
+manually choosing when to create a commit, 
+like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+Pros: you are in control and you can make as 
+many or as few as you prefer. You also can name 
+and keep track of them the way you would like.
+Cons: that you could loose track of what you are
+doing and forget to commit. 
+
+4: Why do you think some version control systems, 
+like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Because some projects include multiple files that 
+work together.
+
+5: How can you use the commands git log and git 
+diff to view the history of files?
+
+if you compare two consecutive commits then you can 
+what was done for that commit. Then you can retrace 
+your steps until you figure out what you are looking for.
