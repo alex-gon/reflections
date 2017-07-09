@@ -4,3 +4,56 @@ Why do you need to do it?
 It adds a little .git file to that folder. This allows 
 you to then make committs. Initiallizing a repository 
 does not create a committ. 
+
+#2 How is the staging area different from the working
+ directory and the repository? 
+ What value do you think it offers?
+
+ The working directory gives you an idea of what is 
+ going on in your repository. The staging area is 
+ specific for files that will be included in the 
+ next commit. I think that this is usefull because 
+ it gives you more control over what is committed 
+ and why. 
+
+ #3 How can you use the staging area to make sure 
+ you have one commit per logical change? 
+
+ You can you git diff --staged to see the difference 
+ between the staged files and the most recent commit. 
+ This is helpful because it shows you what is different
+ from the provious commit and you can make sure it is a 
+ commit that has one logical change
+
+ #4 What are some situations when branches would be 
+ helpful in keeping your history organized? 
+ How would branches help?
+
+ If you have different ideas for your software you can have
+ multiple branches for multiple ideas. Or you can have 
+ different versions for the same project on different branches.
+
+ #5 How do the diagrams help you visualize the branch 
+ structure?
+
+ It gives you an idea of what is connected to what is 
+ connected to that commit. It seems like they are all connected 
+ by a Linked list. 
+
+ #6 What is the result of merging two branches together? 
+ Why do we represent it in the diagram the way we do?
+
+ The result of merging to branches is basically taking to 
+ simmilar files and making them into one, taking and adding
+ what is nessicary. This is interesting and for some reason 
+ i am not sure if I trust it, But it is super cool. It is 
+ represented in the diagram as a commit having two parents 
+ because it saves the commit history of both branches into one. 
+
+ #7 What are the pros and cons of Git’s automatic merging vs. 
+ always doing merges manually?
+
+ If there are discrepencies and it merges automatically, then 
+ something very wrong could happen. If there aren't any 
+ discrepencies then it is pretty cool that it can merge them.
+
