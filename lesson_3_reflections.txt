@@ -7,17 +7,20 @@ quickly share with others on github.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    I think that sometimes you may not want a pull from every commit because
+    sometimes it takes a lot of commits to acomplish one thing. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A clone is a copy of an entire repository. A branch is a peice of a repository
+    that has a specific commit history. A fork is a virtual copy of a repository 
+    through github giving a link back to the original creator of that repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    so you can see how different it is since it was last pulled or pushed
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
